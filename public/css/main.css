@@ -1,0 +1,18 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    border-left: 6px solid red;
+    padding: 0 20px;
+    font-size: 2.5rem;
+}
+
+p {
+    letter-spacing: 3px;
+}

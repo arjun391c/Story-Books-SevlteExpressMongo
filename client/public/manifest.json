@@ -1,0 +1,15 @@
+{
+    "short_name": "Story Books",
+    "name": "Story Books",
+    "icons": [
+        {
+            "src": "./book.png",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#333",
+    "background_color": "#fff"
+}
